@@ -51,7 +51,7 @@ This portfolio website is designed to present my skills, open-source contributio
 
 ## Screenshots
 
-![Home Page]("C:\Users\hp\OneDrive\Desktop\protfolio\Screenshot 2024-08-01 113724.png")
+![Home Page]("https://github.com/srishtiverma957/protfolio/blob/main/Screenshot%202024-08-01%20113724.png")
 *Description: The main landing page of the portfolio website.*
 
 
