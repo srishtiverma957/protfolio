@@ -54,8 +54,6 @@ This portfolio website is designed to present my skills, open-source contributio
 ![Home Page]("C:\Users\hp\OneDrive\Desktop\protfolio\Screenshot 2024-08-01 113724.png")
 *Description: The main landing page of the portfolio website.*
 
-![Projects Section](screenshots/projects.png)
-*Description: A section showcasing the major projects.*
 
 ## Contact
 
